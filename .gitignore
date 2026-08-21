@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Web Scraper/*
+!/Web Scraper/task/
+/Web Scraper/task/*
+!/Web Scraper/task/scraper.py
+!/Web Scraper/task/source.html
+!/Web Scraper/task/Scott_Pilgrims_Precious_Little_Life_Scott_Pilgrim_1.txt
+!/Web Scraper/task/Rip_it_Up_and_Start_Again.txt
+!/Web Scraper/task/Sapiens_A_Brief_History_of_Humankind.txt
+!/Web Scraper/task/Set_Me_Free.txt
